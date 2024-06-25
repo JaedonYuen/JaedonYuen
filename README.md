@@ -1,4 +1,10 @@
-## Hi there 👋
+### [Entering into my zone]
+
+#Hello
+
+I'm Jaedon, a full-time student at Temasek Polytechnic Singapore studying the art of game design and development. 
+
+`im currently in year 1`
 
 <!--
 **JaedonYuen/JaedonYuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
