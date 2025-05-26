@@ -4,7 +4,7 @@
 
 ### I'm Jaedon, a full-time student at Temasek Polytechnic Singapore studying the art of game design and development. 
 
-`I'm currently in year 1`
+`I'm currently in year 2`
 
 #### I'm learning common IT, such as logical maths and Python programming. 
 
