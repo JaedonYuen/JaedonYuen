@@ -6,7 +6,7 @@
 
 `I'm currently in year 2`
 
-#### I'm learning common IT, such as logical maths and Python programming. 
+#### I'm learning game development.
 
 #### Not much else to say... 
 
