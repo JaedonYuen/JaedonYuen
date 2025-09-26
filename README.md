@@ -13,8 +13,9 @@
 enjoy the view I got from the campus's library
 ![20240529_102429](https://github.com/JaedonYuen/JaedonYuen/assets/173018465/8cff4682-c2ef-45d5-979e-e47b5dadb8ab)
 
+#### This github account specfically meant for my school projects, for personal projects, you should look at my other account:
 
-
+https://github.com/Lucarkirb
 
 <!--
 **JaedonYuen/JaedonYuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
